@@ -6,6 +6,4 @@ document.addEventListener('DOMContentLoaded', () => {
             replace square element with appriate immage, set class to
             said immage.
     */
-
-    
 })
